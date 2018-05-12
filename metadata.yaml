@@ -1,0 +1,45 @@
+_repo: Dierenleven-in-de-wildernis--13-Schetsen-uit-het-leven-der-dieren-hun-natuurlijke-aanleg-en-w__18072
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Copeland, Charles
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '3033'
+    url: http://www.gutenberg.org/2009/agents/3033
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Copeland_(illustrator)
+  translator:
+    agent_name: Stoffel, Cilia
+    alias: Stoffel, S. C. (S. Cilia)
+    gutenberg_agent_id: '7790'
+    url: http://www.gutenberg.org/2009/agents/7790
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Long, William J. (William Joseph)
+    alias: Long, William Joseph
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '744'
+    url: http://www.gutenberg.org/2009/agents/744
+    wikipedia: http://en.wikipedia.org/wiki/William_Joseph_Long_(author)
+description: 'Translation of: School of the woods; some life studies of animal instincts
+  and animal training'
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2006-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18072'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Anecdotes'
+- !lcc 'QL'
+- !lcsh 'Animal behavior'
+title: "Dierenleven in de wildernis\r\nSchetsen uit het leven der dieren hun natuurlijke\
+  \ aanleg en wat zij leeren moeten"
+url: http://www.gutenberg.org/ebooks/18072
